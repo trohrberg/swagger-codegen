@@ -10,7 +10,7 @@
         <relativePath>../..</relativePath>
     </parent>
     <artifactId>swagger-codegen-maven-plugin</artifactId>
-    <version>3.0.17-dvag-api-SNAPSHOT</version>
+    <version>3.0.19-dvag-api-SNAPSHOT</version>
     <name>swagger-codegen (maven-plugin)</name>
     <packaging>maven-plugin</packaging>
     <description>maven plugin to build modules from swagger codegen</description>
@@ -55,7 +55,7 @@
         <dependency>
             <groupId>io.swagger.codegen.v3</groupId>
             <artifactId>swagger-codegen-generators</artifactId>
-            <version>1.0.17-dvag-api-SNAPSHOT</version>
+            <version>1.0.19-dvag-api-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
